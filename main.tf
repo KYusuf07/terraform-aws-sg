@@ -15,4 +15,3 @@ resource "aws_security_group" "main" {
     local.common_tags
   )
 }
-}
