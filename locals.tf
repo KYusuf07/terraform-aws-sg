@@ -7,3 +7,4 @@ locals {
     Name = local.final_sg_name
   }
 }
+}
